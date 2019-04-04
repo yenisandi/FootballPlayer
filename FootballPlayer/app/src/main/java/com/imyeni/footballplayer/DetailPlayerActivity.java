@@ -9,8 +9,6 @@ public class DetailPlayerActivity extends AppCompatActivity {
     public static String EXTRA_PLAYER = "extra_player";
     TextView tvNo, tvNama;
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
